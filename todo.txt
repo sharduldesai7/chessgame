@@ -1,0 +1,17 @@
+CHESS IMPLEMENTATION:
+
+- Choice of language:
+	Python - python3
+
+- Class for board layout:
+	define board design
+	define random motion on board
+
+- Class for chess pieces:
+	[inherit board class]
+	color
+	movement
+	query for check
+
+- Checkmate condition
+	
