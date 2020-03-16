@@ -14,4 +14,12 @@ CHESS IMPLEMENTATION:
 	query for check
 
 - Checkmate condition
+
+- Logging 
+
+- Player profile
+	player move logging
+	command handling
+
+- Game state
 	
